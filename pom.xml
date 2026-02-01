@@ -92,6 +92,9 @@
                     <source>25</source>
                     <target>25</target>
                     <release>25</release>
+                    <compilerArgs>
+                        <arg>-parameters</arg>
+                    </compilerArgs>
                     <annotationProcessorPaths>
                         <path>
                             <groupId>org.projectlombok</groupId>
